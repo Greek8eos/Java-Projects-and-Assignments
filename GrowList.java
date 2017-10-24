@@ -1,7 +1,7 @@
 /**
  * Created by George on 9/23/17.
  * Assignment 4  CS332 Mon-Wed  9:00-10:15am
- * Immutable Version of GrowList provided  by Professor Amman
+ * Immutable Version of GrowList 
  */
 
 import java.util.*;
